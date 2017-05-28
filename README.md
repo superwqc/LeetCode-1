@@ -2,7 +2,7 @@
 
 [LeetCode solutions](http://maskray.me/blog/2014-06-29-leetcode-solutions) gives some thoughts on selected problems.
 
-Solved 454/495 problems.
+Solved 468/535 problems.
 
 ## Database
 
@@ -12,10 +12,24 @@ See [database.md](database.md)
 
 | # | Title | Solution |
 |---| ----- | -------- |
+|594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|[longest-harmonious-subsequence.cc](longest-harmonious-subsequence.cc)|
+|593|[Valid Square](https://leetcode.com/problems/valid-square)|[valid-square.cc](valid-square.cc)|
+|592|[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)|[fraction-addition-and-subtraction.cc](fraction-addition-and-subtraction.cc)|
+|588|[Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system)|[design-in-memory-file-system.cc](design-in-memory-file-system.cc)|
+|587|[Erect the Fence](https://leetcode.com/problems/erect-the-fence)|[erect-the-fence.cc](erect-the-fence.cc)|
+|583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings)|[delete-operation-for-two-strings.cc](delete-operation-for-two-strings.cc)|
+|582|[Kill Process](https://leetcode.com/problems/kill-process)|[kill-process.cc](kill-process.cc)|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)|[shortest-unsorted-continuous-subarray.cc](shortest-unsorted-continuous-subarray.cc)|
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies)|[distribute-candies.cc](distribute-candies.cc)|
+|556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii)|[next-greater-element-iii.cc](next-greater-element-iii.cc)|
+|553|[Optimal Division](https://leetcode.com/problems/optimal-division)|[optimal-division.cc](optimal-division.cc)|
+|552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii)|[student-attendance-record-ii.cc](student-attendance-record-ii.cc)|
 |533|[Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii)|[lonely-pixel-ii.cc](lonely-pixel-ii.cc)|
 |531|[Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i)|[lonely-pixel-i.cc](lonely-pixel-i.cc)|
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail)|[freedom-trail.cc](freedom-trail.cc)|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum)|[most-frequent-subtree-sum.cc](most-frequent-subtree-sum.cc)|
+|507|[Perfect Number](https://leetcode.com/problems/perfect-number)|[perfect-number.cc](perfect-number.cc)|
+|504|[Base 7](https://leetcode.com/problems/base-7)|[base-7.cc](base-7.cc)|
 |502|[IPO](https://leetcode.com/problems/ipo)|[ipo.cc](ipo.cc)|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree)|[find-mode-in-binary-search-tree.cc](find-mode-in-binary-search-tree.cc)|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row)|[keyboard-row.cc](keyboard-row.cc)|
